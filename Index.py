@@ -7,4 +7,6 @@ resultado2 = mi_texto2.index("t", 5) #si ponemos un numero seguido de una coma e
 #mi_texto2.index("t", 5, 10) si ponemos otra coma, buscaremos hasta el numero indicado, tener en cuenta que busca hasta un espacio antes, sin ser inclusivo.
 print(resultado2) #tambien podemos buscar palabras completas y nos devolvera el numero desde donde comienza.
 #mi_texto2.index("otra")
-#mi_texto2.rindex("t", 5) busca de derecha a izquierda.
+#mi_texto2.rindex("t", 5) #busca de derecha a izquierda.
+
+
